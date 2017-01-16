@@ -1,4 +1,5 @@
-.pyc
-.nc
-.hdf
-.pdf
+*.pyc
+*.nc
+*.hdf
+*.pdf
+*.h5
